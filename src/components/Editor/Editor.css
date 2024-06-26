@@ -16,6 +16,8 @@
   flex-direction: column;
 }
 
+
+/* 设置画布的区域 */
 .editor-canvas {
   flex: 1;
 }

@@ -1,0 +1,12 @@
+// tsconfig.json 或 jsconfig.json
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "components/*": ["src/components/*"]
+      // 其他别名...
+    }
+  }
+  // 其他配置...
+}
