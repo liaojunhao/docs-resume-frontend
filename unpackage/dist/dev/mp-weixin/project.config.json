@@ -18,7 +18,7 @@
     }
   },
   "compileType": "miniprogram",
-  "libVersion": "3.4.10",
+  "libVersion": "3.5.0",
   "appid": "wxbf171f507ea7c151",
   "projectname": "docs-resume-frontend",
   "condition": {},

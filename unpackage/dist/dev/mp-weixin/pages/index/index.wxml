@@ -1,1 +1,1 @@
-<view class="content"><image class="logo" src="{{a}}"></image><view class="text-area"><text class="title">{{b}}</text></view></view>
+<view class="content"><view class="box"><button type="primary" bindtap="{{a}}">上传渲染</button></view><view style="padding:30rpx"><video src="{{b}}" object-fit="cover"></video></view><view class="uni-common-pb"></view><view wx:if="{{c}}" style="padding:30rpx"><video src="{{d}}" object-fit="cover" autoplay="autoplay" loop="" muted=""></video></view><image src="{{e}}" mode="aspectFill"></image></view>
